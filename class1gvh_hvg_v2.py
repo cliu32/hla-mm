@@ -12,6 +12,7 @@ Note:
 3. NEW: ep crossreactive between two loci is not counted (for example 26L is shared by DQ and DR)
 *4. for the don file: Aab=[8:68]+[118:178], Aot=[68:118]+[178:228], Bab=[228:288]+[338:398], Bot=[288:338]+[398:448], Cab=[448:508]+[558:618], Cot=[508:558]+[618:668]
 *5. for the rec file: Aab=[10:70]+[120:180], Aot=[70:120]+[180+230], Bab=[230:290]+[340:400], Bot=[290:340]+[400:450], Cab=[450:510]+[560:620], Cot=[510:560]+[620:670]
+*6. ABC are gene names, "ab" means antibody confirmed epitope, "ot" means other. 
 Validation: 
 Categorical counts add up to the total ep mm count in each direction. 
 HvG directed mmEp count correlates very well between original Hmm and modified Hmm. correlation coefficient = 0.9861282253
